@@ -318,11 +318,7 @@ print(f"combines two lists into a dictionary : {dict_}")
 
 #29. Develop a program that extracts the vowels from a string and stores them in a list using list comprehension.
 
-string = "jgwci ebcv ikgvkv gvhgdloe rkfhb kggvh"
 
-vowels = [vowels for vowels in string if vowels in 'aeiou']
-
-print(f"vowels from a string : {vowels}")
 
 #30. Create a program that removes all non-numeric characters from a list of strings using list comprehension.
 
